@@ -13,6 +13,10 @@ main {
     padding:20px;
 }
 
+div.titre {
+    width: auto;
+}
+
 .welc {
     font-family:'Courier New', Courier, monospace;
     padding: 0;
@@ -217,3 +221,4 @@ section {
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
